@@ -1,6 +1,6 @@
 # CIENCIA DE DATOS - UNIDAD PARA SUBIR TRABAJOS DE LA ASIGNATURA
 
-##**Bienvenido a mi espacio de GitHub**
+**Bienvenido a mi espacio de GitHub**
 
 Este repositorio está dedicado a recopilar y compartir tolo lo relacionado con mi apredizaje en la fascinante materia de Ciencia de Datos. Aquí encontrarás:
 
@@ -9,3 +9,9 @@ Este repositorio está dedicado a recopilar y compartir tolo lo relacionado con 
 - **Conocimiento aquiridos:** Scripts, notebooks, visualizaciones y análisis que reflejan lo aprendido a lo largo del curso.
 
 Es un espacio en constante evolución que no solo documenta mi crecimiento, sino que también puede ser útil para quienes estén interesados en explorar este emocionate campo. ¡Espero que encuentre algo de valor en este repositorio!
+
+**Cronogramas de Talleres y Parciales**
+
+1. Taller Semana 04 - 01/03/2025
+2. Parcial Semana 05 - 08/03/2025
+3. Taller Semana 09 - 05/04/2025
