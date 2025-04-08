@@ -1,6 +1,6 @@
 # CIENCIA DE DATOS - UNIDAD PARA SUBIR TRABAJOS DE LA ASIGNATURA
 
-##**Bienvenido a mi espacio de GitHub*
+##**Bienvenido a mi espacio de GitHub**
 
 Este repositorio está dedicado a recopilar y compartir tolo lo relacionado con mi apredizaje en la fascinante materia de Ciencia de Datos. Aquí encontrarás:
 
